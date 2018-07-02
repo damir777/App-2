@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="60px" viewBox="0 0 42 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>marker copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20.9746193,4 C12.7005076,4 6,10.7025907 6,18.9792746 C6,21.4673575 6.60913706,23.8031088 7.6751269,25.8849741 C8.18274112,26.9005181 9.04568528,28.0176166 9.19796954,28.3222798 C9.40101523,28.626943 11.2284264,31.2673575 11.2284264,31.2673575 C14.8832487,36.5989637 17.6751269,42.5398964 19.5025381,48.7854922 L20.4670051,51.7813472 C20.5347736,51.9847161 20.7039784,52.3909337 20.9746193,53 C21.2454335,52.3904135 21.4146383,51.9841959 21.4822335,51.7813472 L22.4974619,48.7854922 C24.2741117,42.5398964 27.0659898,36.6497409 30.7715736,31.2673575 L33.106599,27.8145078 C33.5634518,27.1544041 34.1218274,26.1896373 34.3248731,25.8849741 C35.3908629,23.8031088 36,21.4673575 36,18.9792746 C35.9492386,10.7025907 29.248731,4 20.9746193,4 Z M20.9238579,24.2601036 C18.0304569,24.2601036 15.6954315,21.9243523 15.6954315,19.0300518 C15.6954315,16.1357513 18.0304569,13.8 20.9238579,13.8 C23.8172589,13.8 26.1522843,16.1357513 26.1522843,19.0300518 C26.1522843,21.9243523 23.8172589,24.2601036 20.9238579,24.2601036 Z" id="path-1"></path>
+        <filter x="-33.3%" y="-16.3%" width="166.7%" height="140.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0666666667   0 0 0 0 0.117647059   0 0 0 0 0.164705882  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Logo-&amp;-Colors" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="marker-copy" fill-rule="nonzero">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill="#5170F0" fill-rule="evenodd" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>
