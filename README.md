@@ -2,6 +2,10 @@
 
 Aplikacija za rezervaciju vila.
 
-Kompletna administracija vila (slike, cijene, sadržaji). Korisnici mogu pregledavati i rezervirati vile. Implementiran WSPay sustav naplate.
+Kompletna administracija vila (slike/featured slike, cijene po vremenskom razdoblju, sadržaji itd.).
+
+Korisnici mogu pregledavati i rezervirati vile. Interakcija vlasnika vile sa korisnicima putem transakcijskih mailova.
+
+Implementiran WSPay sustav naplate.
 
 <b>Korištene tehnologije:</b> Laravel Framework, MySQL, Inspinia - Responsive HTML tema
