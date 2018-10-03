@@ -4,7 +4,7 @@ Aplikacija za rezervaciju vila.
 
 Kompletna administracija vila (slike/featured slike, cijene po vremenskom razdoblju, sadržaji itd.).
 
-Korisnici mogu pregledavati i rezervirati vile. Interakcija vlasnika vile sa korisnicima putem transakcijskih mailova.
+Korisnici mogu pregledavati i rezervirati vile. Interakcija vlasnika vile s korisnicima putem transakcijskih mailova.
 
 Implementiran WSPay sustav naplate.
 
